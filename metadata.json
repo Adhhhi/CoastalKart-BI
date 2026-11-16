@@ -1,0 +1,6 @@
+{
+  "name": "CoastalKart BI",
+  "description": "CoastalKart Retail & E-commerce Business Intelligence Platform for Mangaluru and Karnataka operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

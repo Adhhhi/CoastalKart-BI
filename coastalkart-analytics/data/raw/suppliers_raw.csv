@@ -1,0 +1,31 @@
+supplier_id,supplier_name,supplier_location,product_category,lead_time,supplier_rating
+SUP-001,Netravati Agro Traders,Kochi,Grocery & Staples,5,3.7
+SUP-002,Netravati Fresh Foods,Udupi,Household & Kitchen,8,3.4
+SUP-003,Malnad Enterprises,Mysuru,Electronics & Accessories,10,4.3
+SUP-004,Sahyadri Fresh Foods,Hubballi,Fashion & Lifestyle,5,4.1
+SUP-005,Canara Agro Traders,Bengaluru,Grocery & Staples,8,3.9
+SUP-006,Kaveri Enterprises,Coimbatore,Household & Kitchen,3,3.5
+SUP-007,Netravati Electronics Hub,Coimbatore,Electronics & Accessories,6,4.6
+SUP-008,Malabar Fresh Foods,Udupi,Fashion & Lifestyle,8,3.5
+SUP-009,Nandi Homeware Co.,Coimbatore,Grocery & Staples,5,4.5
+SUP-010,Dakshin Enterprises,Kochi,Household & Kitchen,3,4.7
+SUP-011,Netravati Apparel Mills,Kochi,Electronics & Accessories,9,4.4
+SUP-012,Udupi Distributors,Coimbatore,Fashion & Lifestyle,7,3.7
+SUP-013,Canara Wholesale Depot,Bengaluru,Grocery & Staples,10,4.5
+SUP-014,Tulu Logistics & Supply,Hubballi,Household & Kitchen,6,4.9
+SUP-015,Deccan Electronics Hub,Mangaluru,Electronics & Accessories,5,4.6
+SUP-016,Konkan Apparel Mills,Kochi,Fashion & Lifestyle,3,3.7
+SUP-017,Konkan Enterprises,Mumbai,Grocery & Staples,8,4.7
+SUP-018,Malabar Distributors,Kochi,Household & Kitchen,4,3.8
+SUP-019,Canara Homeware Co.,Hubballi,Electronics & Accessories,8,3.9
+SUP-020,Kaveri Fresh Foods,Mumbai,Fashion & Lifestyle,3,4.5
+SUP-021,Netravati Distributors,Bengaluru,Grocery & Staples,8,4.3
+SUP-022,Mysuru Apparel Mills,Mumbai,Household & Kitchen,10,3.8
+SUP-023,Karavali Wholesale Depot,Kochi,Electronics & Accessories,7,3.6
+SUP-024,Bengaluru Distributors,Mumbai,Fashion & Lifestyle,2,4.8
+SUP-025,Canara Fresh Foods,Bengaluru,Grocery & Staples,10,4.8
+SUP-026,Nandi Fresh Foods,Mysuru,Household & Kitchen,4,4.0
+SUP-027,Tulu Fresh Foods,Mangaluru,Electronics & Accessories,7,4.1
+SUP-028,Nandi Enterprises,Mangaluru,Fashion & Lifestyle,5,4.7
+SUP-029,Malnad Wholesale Depot,Mumbai,Grocery & Staples,3,4.9
+SUP-030,Kaveri Distributors,Mumbai,Household & Kitchen,10,3.6

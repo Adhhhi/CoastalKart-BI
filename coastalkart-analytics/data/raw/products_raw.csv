@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,unit_price,cost_price,profit_margin,gst_rate,supplier_id
+PRD-0001,Sona Masoori Rice 10kg,Grocery & Staples,Rice & Grains,699.21,571.43,18.27,5,SUP-013
+PRD-0002,Boiled Red Rice 5kg,Grocery & Staples,Rice & Grains,406.58,316.57,22.14,5,SUP-013
+PRD-0003,Organic Brown Poha 1kg,Grocery & Staples,Rice & Grains,123.46,81.81,33.74,5,SUP-021
+PRD-0004,Toor Dal Premium 2kg,Grocery & Staples,Rice & Grains,329.27,253.97,22.87,5,SUP-005
+PRD-0005,Ragi Flour Stone-Ground 2kg,Grocery & Staples,Rice & Grains,149.46,98.47,34.12,5,SUP-001
+PRD-0006,Kundapura Chicken Masala 200g,Grocery & Staples,Coastal Spices & Masalas,140.4,87.2,37.89,5,SUP-013
+PRD-0007,Byadagi Red Chilli Powder 500g,Grocery & Staples,Coastal Spices & Masalas,238.26,169.68,28.78,5,SUP-001
+PRD-0008,Mangalorean Fish Curry Paste 250g,Grocery & Staples,Coastal Spices & Masalas,138.89,94.43,32.01,5,SUP-021
+PRD-0009,Coorg Black Pepper Whole 250g,Grocery & Staples,Coastal Spices & Masalas,266.71,180.54,32.31,5,SUP-029
+PRD-0010,Udupi Sambar Powder 500g,Grocery & Staples,Coastal Spices & Masalas,200.1,129.49,35.29,5,SUP-029
+PRD-0011,Wood-Pressed Coconut Oil 1L,Grocery & Staples,Cold-Pressed Oils,375.42,264.54,29.53,5,SUP-025
+PRD-0012,Cold-Pressed Groundnut Oil 2L,Grocery & Staples,Cold-Pressed Oils,529.05,370.05,30.05,5,SUP-025
+PRD-0013,Pure Cow Ghee Jar 500ml,Grocery & Staples,Cold-Pressed Oils,460.21,331.12,28.05,5,SUP-001
+PRD-0014,Sesame Gingelly Oil 1L,Grocery & Staples,Cold-Pressed Oils,399.22,307.96,22.86,5,SUP-005
+PRD-0015,Chikmagalur Filter Coffee 500g,Grocery & Staples,Beverages & Filter Coffee,283.69,201.04,29.13,5,SUP-005
+PRD-0016,Assam Gold Leaf Tea 500g,Grocery & Staples,Beverages & Filter Coffee,265.25,177.69,33.01,5,SUP-029
+PRD-0017,Kokum Concentrate Syrup 750ml,Grocery & Staples,Beverages & Filter Coffee,176.26,113.83,35.42,5,SUP-029
+PRD-0018,Malted Health Drink 1kg,Grocery & Staples,Beverages & Filter Coffee,453.52,361.28,20.34,5,SUP-029
+PRD-0019,Mangalore Buns Mix 500g,Grocery & Staples,Dairy & Bakery,132.79,83.36,37.22,5,SUP-005
+PRD-0020,Rusk & Khara Biscuits Combo,Grocery & Staples,Dairy & Bakery,125.61,89.49,28.76,5,SUP-001
+PRD-0021,Cashew Nut Roasted Pack 250g,Grocery & Staples,Dairy & Bakery,399.12,302.01,24.33,5,SUP-013
+PRD-0022,Artisanal Jaggery Blocks 1kg,Grocery & Staples,Dairy & Bakery,126.43,82.87,34.45,5,SUP-013
+PRD-0023,Citrus Floor Disinfectant 2L,Household & Kitchen,Cleaning Supplies,322.84,231.38,28.33,18,SUP-010
+PRD-0024,Herbal Dishwash Gel 1.5L,Household & Kitchen,Cleaning Supplies,242.12,174.47,27.94,18,SUP-018
+PRD-0025,Front-Load Laundry Liquid 2L,Household & Kitchen,Cleaning Supplies,501.91,360.31,28.21,18,SUP-018
+PRD-0026,Microfiber Mop & Bucket Set,Household & Kitchen,Cleaning Supplies,920.42,630.91,31.45,18,SUP-030
+PRD-0027,Tri-Ply Stainless Kadai 24cm,Household & Kitchen,Cookware & Steel,1304.75,822.47,36.96,18,SUP-002
+PRD-0028,Non-Stick Appam Patra 12-Pit,Household & Kitchen,Cookware & Steel,883.08,576.0,34.77,18,SUP-022
+PRD-0029,Hard Anodized Pressure Cooker 5L,Household & Kitchen,Cookware & Steel,1933.79,1298.89,32.83,18,SUP-010
+PRD-0030,Cast Iron Dosa Tawa 28cm,Household & Kitchen,Cookware & Steel,898.44,603.0,32.88,18,SUP-010
+PRD-0031,Airtight Masala Box 7-Cup,Household & Kitchen,Storage & Organizers,433.58,268.48,38.08,18,SUP-014
+PRD-0032,Borosilicate Glass Container Set,Household & Kitchen,Storage & Organizers,965.4,678.67,29.7,18,SUP-014
+PRD-0033,Modular Kitchen Rack 3-Tier,Household & Kitchen,Storage & Organizers,1238.36,777.07,37.25,18,SUP-006
+PRD-0034,Stainless Steel Lunch Box 4-Tier,Household & Kitchen,Storage & Organizers,705.55,458.24,35.05,18,SUP-022
+PRD-0035,Bamboo Folding Laundry Basket,Household & Kitchen,Laundry & Bath,957.04,589.57,38.4,18,SUP-022
+PRD-0036,Combed Cotton Bath Towel Set,Household & Kitchen,Laundry & Bath,719.9,457.52,36.45,18,SUP-018
+PRD-0037,Monsoon Dehumidifier Pouches 6-Pack,Household & Kitchen,Laundry & Bath,403.83,280.2,30.61,18,SUP-006
+PRD-0038,ANC Wireless Earbuds Pro,Electronics & Accessories,Audio & Earbuds,1588.82,1148.1,27.74,18,SUP-019
+PRD-0039,Portable Bluetooth Speaker 20W,Electronics & Accessories,Audio & Earbuds,2679.86,1698.05,36.64,18,SUP-007
+PRD-0040,USB-C Wired Studio Earphones,Electronics & Accessories,Audio & Earbuds,659.23,615.31,6.66,18,SUP-011
+PRD-0041,Neckband Sport Earphones,Electronics & Accessories,Audio & Earbuds,1414.21,974.75,31.07,18,SUP-011
+PRD-0042,65W GaN Fast Wall Charger,Electronics & Accessories,Cables & Chargers,1464.37,1048.88,28.37,18,SUP-019
+PRD-0043,Braided USB-C Cable 1.5m,Electronics & Accessories,Cables & Chargers,390.6,222.61,43.01,18,SUP-027
+PRD-0044,20000mAh Fast Power Bank,Electronics & Accessories,Cables & Chargers,1872.9,1318.86,29.58,18,SUP-027
+PRD-0045,Surge Protector 6-Socket Strip,Electronics & Accessories,Cables & Chargers,765.55,683.95,10.66,18,SUP-003
+PRD-0046,AMOLED Fitness Smart Watch,Electronics & Accessories,Smart Accessories,3596.51,2472.19,31.26,18,SUP-003
+PRD-0047,Ergonomic Wireless Mouse,Electronics & Accessories,Smart Accessories,944.82,599.81,36.52,18,SUP-007
+PRD-0048,Aluminum Laptop Stand Foldable,Electronics & Accessories,Smart Accessories,971.63,630.35,35.12,18,SUP-023
+PRD-0049,64GB USB 3.2 Flash Drive,Electronics & Accessories,Smart Accessories,547.12,382.25,30.13,18,SUP-027
+PRD-0050,Electric Kettle Stainless 1.5L,Electronics & Accessories,Small Appliances,983.33,900.31,8.44,18,SUP-027
+PRD-0051,750W Mixer Grinder 3-Jar,Electronics & Accessories,Small Appliances,3049.83,2247.79,26.3,18,SUP-027
+PRD-0052,Rechargeable Mosquito Racquet,Electronics & Accessories,Small Appliances,409.11,251.05,38.64,18,SUP-027
+PRD-0053,LED Emergency Lantern 30W,Electronics & Accessories,Small Appliances,738.66,522.87,29.21,18,SUP-007
+PRD-0054,Handloom Linen Men's Shirt,Fashion & Lifestyle,Coastal Cotton Wear,1470.49,784.73,46.63,12,SUP-016
+PRD-0055,Breathable Cotton Kurta Set,Fashion & Lifestyle,Coastal Cotton Wear,1604.99,799.5,50.19,12,SUP-024
+PRD-0056,Block-Print Midi Dress,Fashion & Lifestyle,Coastal Cotton Wear,1898.55,998.9,47.39,12,SUP-028
+PRD-0057,Everyday Chino Trousers,Fashion & Lifestyle,Coastal Cotton Wear,1356.46,746.99,44.93,12,SUP-016
+PRD-0058,Monsoon Waterproof Sandals,Fashion & Lifestyle,Footwear,737.74,372.32,49.53,12,SUP-028
+PRD-0059,Cushioned Walking Sneakers,Fashion & Lifestyle,Footwear,2177.77,1118.86,48.62,12,SUP-012
+PRD-0060,Kolhapuri Leather Chappal,Fashion & Lifestyle,Footwear,999.0,525.58,47.39,12,SUP-004
+PRD-0061,Anti-Skid Kitchen Clogs,Fashion & Lifestyle,Footwear,599.15,337.63,43.65,12,SUP-028
+PRD-0062,Water-Resistant Laptop Backpack 28L,Fashion & Lifestyle,Bags & Travel,1628.05,915.96,43.74,12,SUP-008
+PRD-0063,Canvas Tote Shopping Bag,Fashion & Lifestyle,Bags & Travel,596.19,295.35,50.46,12,SUP-008
+PRD-0064,Cabin Duffel Travel Bag,Fashion & Lifestyle,Bags & Travel,2059.04,1180.56,42.66,12,SUP-016
+PRD-0065,Kasavu Border Cotton Mundu,Fashion & Lifestyle,Ethnic & Casuals,798.7,433.16,45.77,12,SUP-012
+PRD-0066,Printed Dupatta & Stole Pack,Fashion & Lifestyle,Ethnic & Casuals,779.29,401.64,48.46,12,SUP-024
+PRD-0067,Polo Collar Pique T-Shirt,Fashion & Lifestyle,Ethnic & Casuals,937.85,493.47,47.38,12,SUP-012
+PRD-0068,Sona Masoori Rice 10kg (Value Pack),Grocery & Staples,Rice & Grains,616.52,510.06,17.27,5,SUP-025
+PRD-0069,Boiled Red Rice 5kg (Value Pack),Grocery & Staples,Rice & Grains,400.02,315.57,21.11,5,SUP-013
+PRD-0070,Organic Brown Poha 1kg (Value Pack),Grocery & Staples,Rice & Grains,104.26,73.89,29.13,5,SUP-021
+PRD-0071,Toor Dal Premium 2kg (Value Pack),Grocery & Staples,Rice & Grains,314.8,251.69,20.05,5,SUP-013
+PRD-0072,Ragi Flour Stone-Ground 2kg (Value Pack),Grocery & Staples,Rice & Grains,148.15,105.75,28.62,5,SUP-025
+PRD-0073,Kundapura Chicken Masala 200g (Value Pack),Grocery & Staples,Coastal Spices & Masalas,128.91,87.01,32.5,5,SUP-017
+PRD-0074,Byadagi Red Chilli Powder 500g (Value Pack),Grocery & Staples,Coastal Spices & Masalas,269.84,187.27,30.6,5,SUP-021
+PRD-0075,Mangalorean Fish Curry Paste 250g (Value Pack),Grocery & Staples,Coastal Spices & Masalas,173.9,106.53,38.74,5,SUP-017
+PRD-0076,Coorg Black Pepper Whole 250g (Value Pack),Grocery & Staples,Coastal Spices & Masalas,277.51,206.47,25.6,5,SUP-017
+PRD-0077,Udupi Sambar Powder 500g (Value Pack),Grocery & Staples,Coastal Spices & Masalas,187.53,129.17,31.12,5,SUP-021
+PRD-0078,Wood-Pressed Coconut Oil 1L (Value Pack),Grocery & Staples,Cold-Pressed Oils,439.81,303.37,31.02,5,SUP-005
+PRD-0079,Cold-Pressed Groundnut Oil 2L (Value Pack),Grocery & Staples,Cold-Pressed Oils,566.14,422.46,25.38,5,SUP-017
+PRD-0080,Pure Cow Ghee Jar 500ml (Value Pack),Grocery & Staples,Cold-Pressed Oils,411.74,297.24,27.81,5,SUP-013
+PRD-0081,Sesame Gingelly Oil 1L (Value Pack),Grocery & Staples,Cold-Pressed Oils,361.38,247.15,31.61,5,SUP-021
+PRD-0082,Chikmagalur Filter Coffee 500g (Value Pack),Grocery & Staples,Beverages & Filter Coffee,343.94,241.71,29.72,5,SUP-005
+PRD-0083,Assam Gold Leaf Tea 500g (Value Pack),Grocery & Staples,Beverages & Filter Coffee,309.3,210.34,31.99,5,SUP-017
+PRD-0084,Kokum Concentrate Syrup 750ml (Value Pack),Grocery & Staples,Beverages & Filter Coffee,210.28,138.47,34.15,5,SUP-017
+PRD-0085,Malted Health Drink 1kg (Value Pack),Grocery & Staples,Beverages & Filter Coffee,502.2,363.48,27.62,5,SUP-025
+PRD-0086,Mangalore Buns Mix 500g (Value Pack),Grocery & Staples,Dairy & Bakery,127.68,80.62,36.86,5,SUP-017
+PRD-0087,Rusk & Khara Biscuits Combo (Value Pack),Grocery & Staples,Dairy & Bakery,142.53,99.46,30.22,5,SUP-017
+PRD-0088,Cashew Nut Roasted Pack 250g (Value Pack),Grocery & Staples,Dairy & Bakery,322.59,228.95,29.03,5,SUP-021
+PRD-0089,Artisanal Jaggery Blocks 1kg (Value Pack),Grocery & Staples,Dairy & Bakery,140.14,91.32,34.84,5,SUP-013
+PRD-0090,Citrus Floor Disinfectant 2L (Value Pack),Household & Kitchen,Cleaning Supplies,289.79,204.86,29.31,18,SUP-010
+PRD-0091,Herbal Dishwash Gel 1.5L (Value Pack),Household & Kitchen,Cleaning Supplies,264.96,174.31,34.21,18,SUP-022
+PRD-0092,Front-Load Laundry Liquid 2L (Value Pack),Household & Kitchen,Cleaning Supplies,382.94,280.74,26.69,18,SUP-014
+PRD-0093,Microfiber Mop & Bucket Set (Value Pack),Household & Kitchen,Cleaning Supplies,996.77,620.93,37.71,18,SUP-014
+PRD-0094,Tri-Ply Stainless Kadai 24cm (Value Pack),Household & Kitchen,Cookware & Steel,1301.21,792.38,39.1,18,SUP-030
+PRD-0095,Non-Stick Appam Patra 12-Pit (Value Pack),Household & Kitchen,Cookware & Steel,892.02,599.12,32.84,18,SUP-030
+PRD-0096,Hard Anodized Pressure Cooker 5L (Value Pack),Household & Kitchen,Cookware & Steel,2194.96,1483.09,32.43,18,SUP-014
+PRD-0097,Cast Iron Dosa Tawa 28cm (Value Pack),Household & Kitchen,Cookware & Steel,1123.11,741.48,33.98,18,SUP-026
+PRD-0098,Airtight Masala Box 7-Cup (Value Pack),Household & Kitchen,Storage & Organizers,462.22,309.77,32.98,18,SUP-002
+PRD-0099,Borosilicate Glass Container Set (Value Pack),Household & Kitchen,Storage & Organizers,1123.15,781.57,30.41,18,SUP-006
+PRD-0100,Modular Kitchen Rack 3-Tier (Value Pack),Household & Kitchen,Storage & Organizers,1316.36,846.81,35.67,18,SUP-030
+PRD-0101,Stainless Steel Lunch Box 4-Tier (Value Pack),Household & Kitchen,Storage & Organizers,618.98,384.47,37.89,18,SUP-006
+PRD-0102,Bamboo Folding Laundry Basket (Value Pack),Household & Kitchen,Laundry & Bath,827.12,551.32,33.34,18,SUP-022
+PRD-0103,Combed Cotton Bath Towel Set (Value Pack),Household & Kitchen,Laundry & Bath,901.06,610.63,32.23,18,SUP-026
+PRD-0104,Monsoon Dehumidifier Pouches 6-Pack (Value Pack),Household & Kitchen,Laundry & Bath,453.33,299.57,33.92,18,SUP-010
+PRD-0105,ANC Wireless Earbuds Pro (Value Pack),Electronics & Accessories,Audio & Earbuds,1882.97,1725.3,8.37,18,SUP-011
+PRD-0106,Portable Bluetooth Speaker 20W (Value Pack),Electronics & Accessories,Audio & Earbuds,2497.19,1751.95,29.84,18,SUP-011
+PRD-0107,USB-C Wired Studio Earphones (Value Pack),Electronics & Accessories,Audio & Earbuds,740.1,505.77,31.66,18,SUP-023
+PRD-0108,Neckband Sport Earphones (Value Pack),Electronics & Accessories,Audio & Earbuds,1152.65,750.59,34.88,18,SUP-023
+PRD-0109,65W GaN Fast Wall Charger (Value Pack),Electronics & Accessories,Cables & Chargers,1464.74,1025.91,29.96,18,SUP-011
+PRD-0110,Braided USB-C Cable 1.5m (Value Pack),Electronics & Accessories,Cables & Chargers,372.07,348.25,6.4,18,SUP-007
+PRD-0111,20000mAh Fast Power Bank (Value Pack),Electronics & Accessories,Cables & Chargers,1628.71,1257.98,22.76,18,SUP-023
+PRD-0112,Surge Protector 6-Socket Strip (Value Pack),Electronics & Accessories,Cables & Chargers,713.61,463.03,35.11,18,SUP-011
+PRD-0113,AMOLED Fitness Smart Watch (Value Pack),Electronics & Accessories,Smart Accessories,3192.4,2280.07,28.58,18,SUP-007
+PRD-0114,Ergonomic Wireless Mouse (Value Pack),Electronics & Accessories,Smart Accessories,929.38,563.38,39.38,18,SUP-027
+PRD-0115,Aluminum Laptop Stand Foldable (Value Pack),Electronics & Accessories,Smart Accessories,1024.9,927.76,9.48,18,SUP-027
+PRD-0116,64GB USB 3.2 Flash Drive (Value Pack),Electronics & Accessories,Smart Accessories,647.5,445.87,31.14,18,SUP-015
+PRD-0117,Electric Kettle Stainless 1.5L (Value Pack),Electronics & Accessories,Small Appliances,881.12,595.39,32.43,18,SUP-027
+PRD-0118,750W Mixer Grinder 3-Jar (Value Pack),Electronics & Accessories,Small Appliances,3441.81,2621.35,23.84,18,SUP-027
+PRD-0119,Rechargeable Mosquito Racquet (Value Pack),Electronics & Accessories,Small Appliances,429.44,291.21,32.19,18,SUP-019
+PRD-0120,LED Emergency Lantern 30W (Value Pack),Electronics & Accessories,Small Appliances,842.13,753.8,10.49,18,SUP-015
+PRD-0121,Handloom Linen Men's Shirt (Value Pack),Fashion & Lifestyle,Coastal Cotton Wear,1240.03,651.69,47.45,12,SUP-004
+PRD-0122,Breathable Cotton Kurta Set (Value Pack),Fashion & Lifestyle,Coastal Cotton Wear,1517.3,814.38,46.33,12,SUP-028
+PRD-0123,Block-Print Midi Dress (Value Pack),Fashion & Lifestyle,Coastal Cotton Wear,1626.93,813.26,50.01,12,SUP-016
+PRD-0124,Everyday Chino Trousers (Value Pack),Fashion & Lifestyle,Coastal Cotton Wear,1608.88,935.72,41.84,12,SUP-020
+PRD-0125,Monsoon Waterproof Sandals (Value Pack),Fashion & Lifestyle,Footwear,710.45,362.7,48.95,12,SUP-020
+PRD-0126,Cushioned Walking Sneakers (Value Pack),Fashion & Lifestyle,Footwear,1988.65,1028.02,48.31,12,SUP-016
+PRD-0127,Kolhapuri Leather Chappal (Value Pack),Fashion & Lifestyle,Footwear,972.44,526.43,45.87,12,SUP-004
+PRD-0128,Anti-Skid Kitchen Clogs (Value Pack),Fashion & Lifestyle,Footwear,580.1,316.94,45.36,12,SUP-016
+PRD-0129,Water-Resistant Laptop Backpack 28L (Value Pack),Fashion & Lifestyle,Bags & Travel,1584.81,907.92,42.71,12,SUP-016
+PRD-0130,Canvas Tote Shopping Bag (Value Pack),Fashion & Lifestyle,Bags & Travel,486.33,264.46,45.62,12,SUP-016
+PRD-0131,Cabin Duffel Travel Bag (Value Pack),Fashion & Lifestyle,Bags & Travel,1640.85,853.85,47.96,12,SUP-004
+PRD-0132,Kasavu Border Cotton Mundu (Value Pack),Fashion & Lifestyle,Ethnic & Casuals,1020.07,504.76,50.52,12,SUP-012
+PRD-0133,Printed Dupatta & Stole Pack (Value Pack),Fashion & Lifestyle,Ethnic & Casuals,650.24,319.78,50.82,12,SUP-024
+PRD-0134,Polo Collar Pique T-Shirt (Value Pack),Fashion & Lifestyle,Ethnic & Casuals,714.06,338.58,52.58,12,SUP-008
+PRD-0135,Sona Masoori Rice 10kg (Pro),Grocery & Staples,Rice & Grains,625.54,472.21,24.51,5,SUP-009
+PRD-0136,Boiled Red Rice 5kg (Pro),Grocery & Staples,Rice & Grains,326.78,245.28,24.94,5,SUP-005
+PRD-0137,Organic Brown Poha 1kg (Pro),Grocery & Staples,Rice & Grains,117.89,76.23,35.34,5,SUP-017
+PRD-0138,Toor Dal Premium 2kg (Pro),Grocery & Staples,Rice & Grains,365.04,268.59,26.42,5,SUP-005
+PRD-0139,Ragi Flour Stone-Ground 2kg (Pro),Grocery & Staples,Rice & Grains,177.39,118.5,33.2,5,SUP-017
+PRD-0140,Kundapura Chicken Masala 200g (Pro),Grocery & Staples,Coastal Spices & Masalas,119.18,71.95,39.63,5,SUP-017
+PRD-0141,Byadagi Red Chilli Powder 500g (Pro),Grocery & Staples,Coastal Spices & Masalas,290.46,212.17,26.95,5,SUP-025
+PRD-0142,Mangalorean Fish Curry Paste 250g (Pro),Grocery & Staples,Coastal Spices & Masalas,147.16,97.66,33.64,5,SUP-005
+PRD-0143,Coorg Black Pepper Whole 250g (Pro),Grocery & Staples,Coastal Spices & Masalas,318.99,233.43,26.82,5,SUP-013
+PRD-0144,Udupi Sambar Powder 500g (Pro),Grocery & Staples,Coastal Spices & Masalas,192.08,135.33,29.54,5,SUP-005
+PRD-0145,Wood-Pressed Coconut Oil 1L (Pro),Grocery & Staples,Cold-Pressed Oils,448.78,320.13,28.67,5,SUP-001
+PRD-0146,Cold-Pressed Groundnut Oil 2L (Pro),Grocery & Staples,Cold-Pressed Oils,558.91,408.99,26.82,5,SUP-021
+PRD-0147,Pure Cow Ghee Jar 500ml (Pro),Grocery & Staples,Cold-Pressed Oils,415.58,308.46,25.78,5,SUP-001
+PRD-0148,Sesame Gingelly Oil 1L (Pro),Grocery & Staples,Cold-Pressed Oils,420.79,318.08,24.41,5,SUP-005
+PRD-0149,Chikmagalur Filter Coffee 500g (Pro),Grocery & Staples,Beverages & Filter Coffee,323.63,218.59,32.46,5,SUP-029
+PRD-0150,Assam Gold Leaf Tea 500g (Pro),Grocery & Staples,Beverages & Filter Coffee,308.13,213.38,30.75,5,SUP-017
+PRD-0151,Kokum Concentrate Syrup 750ml (Pro),Grocery & Staples,Beverages & Filter Coffee,206.99,147.22,28.88,5,SUP-029
+PRD-0152,Malted Health Drink 1kg (Pro),Grocery & Staples,Beverages & Filter Coffee,487.89,383.92,21.31,5,SUP-017
+PRD-0153,Mangalore Buns Mix 500g (Pro),Grocery & Staples,Dairy & Bakery,113.8,65.94,42.06,5,SUP-005
+PRD-0154,Rusk & Khara Biscuits Combo (Pro),Grocery & Staples,Dairy & Bakery,136.48,90.63,33.59,5,SUP-029
+PRD-0155,Cashew Nut Roasted Pack 250g (Pro),Grocery & Staples,Dairy & Bakery,354.34,259.47,26.77,5,SUP-021
+PRD-0156,Artisanal Jaggery Blocks 1kg (Pro),Grocery & Staples,Dairy & Bakery,120.12,82.53,31.29,5,SUP-009
+PRD-0157,Citrus Floor Disinfectant 2L (Pro),Household & Kitchen,Cleaning Supplies,287.59,191.97,33.25,18,SUP-018
+PRD-0158,Herbal Dishwash Gel 1.5L (Pro),Household & Kitchen,Cleaning Supplies,238.97,169.95,28.88,18,SUP-018
+PRD-0159,Front-Load Laundry Liquid 2L (Pro),Household & Kitchen,Cleaning Supplies,448.97,311.3,30.66,18,SUP-014
+PRD-0160,Microfiber Mop & Bucket Set (Pro),Household & Kitchen,Cleaning Supplies,817.29,543.67,33.48,18,SUP-030
+PRD-0161,Tri-Ply Stainless Kadai 24cm (Pro),Household & Kitchen,Cookware & Steel,1495.2,935.32,37.45,18,SUP-030
+PRD-0162,Non-Stick Appam Patra 12-Pit (Pro),Household & Kitchen,Cookware & Steel,901.68,584.17,35.21,18,SUP-002
+PRD-0163,Hard Anodized Pressure Cooker 5L (Pro),Household & Kitchen,Cookware & Steel,1960.02,1254.21,36.01,18,SUP-014
+PRD-0164,Cast Iron Dosa Tawa 28cm (Pro),Household & Kitchen,Cookware & Steel,983.13,666.25,32.23,18,SUP-030
+PRD-0165,Airtight Masala Box 7-Cup (Pro),Household & Kitchen,Storage & Organizers,512.73,329.75,35.69,18,SUP-022
+PRD-0166,Borosilicate Glass Container Set (Pro),Household & Kitchen,Storage & Organizers,948.64,626.31,33.98,18,SUP-018
+PRD-0167,Modular Kitchen Rack 3-Tier (Pro),Household & Kitchen,Storage & Organizers,1110.3,704.64,36.54,18,SUP-014
+PRD-0168,Stainless Steel Lunch Box 4-Tier (Pro),Household & Kitchen,Storage & Organizers,681.23,451.64,33.7,18,SUP-010
+PRD-0169,Bamboo Folding Laundry Basket (Pro),Household & Kitchen,Laundry & Bath,755.15,499.34,33.88,18,SUP-018
+PRD-0170,Combed Cotton Bath Towel Set (Pro),Household & Kitchen,Laundry & Bath,843.64,577.83,31.51,18,SUP-018
+PRD-0171,Monsoon Dehumidifier Pouches 6-Pack (Pro),Household & Kitchen,Laundry & Bath,473.22,324.39,31.45,18,SUP-018
+PRD-0172,ANC Wireless Earbuds Pro (Pro),Electronics & Accessories,Audio & Earbuds,1722.26,1173.11,31.89,18,SUP-003
+PRD-0173,Portable Bluetooth Speaker 20W (Pro),Electronics & Accessories,Audio & Earbuds,2464.48,1573.22,36.16,18,SUP-003
+PRD-0174,USB-C Wired Studio Earphones (Pro),Electronics & Accessories,Audio & Earbuds,786.11,539.47,31.37,18,SUP-023
+PRD-0175,Neckband Sport Earphones (Pro),Electronics & Accessories,Audio & Earbuds,1286.21,1168.02,9.19,18,SUP-027
+PRD-0176,65W GaN Fast Wall Charger (Pro),Electronics & Accessories,Cables & Chargers,1569.3,1189.03,24.23,18,SUP-019
+PRD-0177,Braided USB-C Cable 1.5m (Pro),Electronics & Accessories,Cables & Chargers,340.86,190.91,43.99,18,SUP-011
+PRD-0178,20000mAh Fast Power Bank (Pro),Electronics & Accessories,Cables & Chargers,1601.62,1134.76,29.15,18,SUP-027
+PRD-0179,Surge Protector 6-Socket Strip (Pro),Electronics & Accessories,Cables & Chargers,780.78,534.15,31.59,18,SUP-015
+PRD-0180,AMOLED Fitness Smart Watch (Pro),Electronics & Accessories,Smart Accessories,3040.77,2770.59,8.89,18,SUP-023
+PRD-0181,Ergonomic Wireless Mouse (Pro),Electronics & Accessories,Smart Accessories,717.68,421.05,41.33,18,SUP-019
+PRD-0182,Aluminum Laptop Stand Foldable (Pro),Electronics & Accessories,Smart Accessories,1201.5,726.75,39.51,18,SUP-007
+PRD-0183,64GB USB 3.2 Flash Drive (Pro),Electronics & Accessories,Smart Accessories,505.23,356.48,29.44,18,SUP-019
+PRD-0184,Electric Kettle Stainless 1.5L (Pro),Electronics & Accessories,Small Appliances,1081.6,757.09,30.0,18,SUP-027
+PRD-0185,750W Mixer Grinder 3-Jar (Pro),Electronics & Accessories,Small Appliances,3459.96,3174.42,8.25,18,SUP-015
+PRD-0186,Rechargeable Mosquito Racquet (Pro),Electronics & Accessories,Small Appliances,412.06,273.75,33.57,18,SUP-015
+PRD-0187,LED Emergency Lantern 30W (Pro),Electronics & Accessories,Small Appliances,786.08,531.66,32.37,18,SUP-019
+PRD-0188,Handloom Linen Men's Shirt (Pro),Fashion & Lifestyle,Coastal Cotton Wear,1567.16,786.71,49.8,12,SUP-028
+PRD-0189,Breathable Cotton Kurta Set (Pro),Fashion & Lifestyle,Coastal Cotton Wear,1425.02,719.64,49.5,12,SUP-024
+PRD-0190,Block-Print Midi Dress (Pro),Fashion & Lifestyle,Coastal Cotton Wear,1451.26,732.94,49.5,12,SUP-020
+PRD-0191,Everyday Chino Trousers (Pro),Fashion & Lifestyle,Coastal Cotton Wear,1221.55,624.21,48.9,12,SUP-016
+PRD-0192,Monsoon Waterproof Sandals (Pro),Fashion & Lifestyle,Footwear,890.39,459.19,48.43,12,SUP-004
+PRD-0193,Cushioned Walking Sneakers (Pro),Fashion & Lifestyle,Footwear,1724.7,969.14,43.81,12,SUP-024
+PRD-0194,Kolhapuri Leather Chappal (Pro),Fashion & Lifestyle,Footwear,1230.88,631.81,48.67,12,SUP-008
+PRD-0195,Anti-Skid Kitchen Clogs (Pro),Fashion & Lifestyle,Footwear,715.28,415.11,41.97,12,SUP-024
+PRD-0196,Water-Resistant Laptop Backpack 28L (Pro),Fashion & Lifestyle,Bags & Travel,1727.77,995.2,42.4,12,SUP-008
+PRD-0197,Canvas Tote Shopping Bag (Pro),Fashion & Lifestyle,Bags & Travel,511.25,263.93,48.38,12,SUP-024
+PRD-0198,Cabin Duffel Travel Bag (Pro),Fashion & Lifestyle,Bags & Travel,1581.19,843.92,46.63,12,SUP-008
+PRD-0199,Kasavu Border Cotton Mundu (Pro),Fashion & Lifestyle,Ethnic & Casuals,812.95,408.69,49.73,12,SUP-012
+PRD-0200,Printed Dupatta & Stole Pack (Pro),Fashion & Lifestyle,Ethnic & Casuals,735.97,400.21,45.62,12,SUP-012
+PRD-0201,Polo Collar Pique T-Shirt (Pro),Fashion & Lifestyle,Ethnic & Casuals,822.42,413.97,49.66,12,SUP-012
+PRD-0202,Sona Masoori Rice 10kg (Family Edition),Grocery & Staples,Rice & Grains,737.82,629.36,14.7,5,SUP-029
+PRD-0203,Boiled Red Rice 5kg (Family Edition),Grocery & Staples,Rice & Grains,349.8,266.89,23.7,5,SUP-025
+PRD-0204,Organic Brown Poha 1kg (Family Edition),Grocery & Staples,Rice & Grains,124.27,84.6,31.92,5,SUP-001
+PRD-0205,Toor Dal Premium 2kg (Family Edition),Grocery & Staples,Rice & Grains,291.54,238.02,18.36,5,SUP-001
+PRD-0206,Ragi Flour Stone-Ground 2kg (Family Edition),Grocery & Staples,Rice & Grains,189.08,135.18,28.51,5,SUP-017
+PRD-0207,Kundapura Chicken Masala 200g (Family Edition),Grocery & Staples,Coastal Spices & Masalas,139.87,93.21,33.36,5,SUP-009
+PRD-0208,Byadagi Red Chilli Powder 500g (Family Edition),Grocery & Staples,Coastal Spices & Masalas,280.79,198.52,29.3,5,SUP-017
+PRD-0209,Mangalorean Fish Curry Paste 250g (Family Edition),Grocery & Staples,Coastal Spices & Masalas,136.55,89.11,34.74,5,SUP-029
+PRD-0210,Coorg Black Pepper Whole 250g (Family Edition),Grocery & Staples,Coastal Spices & Masalas,356.8,249.19,30.16,5,SUP-025
+PRD-0211,Udupi Sambar Powder 500g (Family Edition),Grocery & Staples,Coastal Spices & Masalas,208.6,145.06,30.46,5,SUP-009
+PRD-0212,Wood-Pressed Coconut Oil 1L (Family Edition),Grocery & Staples,Cold-Pressed Oils,386.93,280.62,27.48,5,SUP-017
+PRD-0213,Cold-Pressed Groundnut Oil 2L (Family Edition),Grocery & Staples,Cold-Pressed Oils,618.96,451.25,27.1,5,SUP-001
+PRD-0214,Pure Cow Ghee Jar 500ml (Family Edition),Grocery & Staples,Cold-Pressed Oils,475.93,338.02,28.98,5,SUP-021
+PRD-0215,Sesame Gingelly Oil 1L (Family Edition),Grocery & Staples,Cold-Pressed Oils,330.99,248.62,24.89,5,SUP-001
+PRD-0216,Chikmagalur Filter Coffee 500g (Family Edition),Grocery & Staples,Beverages & Filter Coffee,347.64,240.5,30.82,5,SUP-025
+PRD-0217,Assam Gold Leaf Tea 500g (Family Edition),Grocery & Staples,Beverages & Filter Coffee,247.07,172.99,29.98,5,SUP-029
+PRD-0218,Kokum Concentrate Syrup 750ml (Family Edition),Grocery & Staples,Beverages & Filter Coffee,207.6,144.71,30.29,5,SUP-013
+PRD-0219,Malted Health Drink 1kg (Family Edition),Grocery & Staples,Beverages & Filter Coffee,456.28,327.48,28.23,5,SUP-017
+PRD-0220,Mangalore Buns Mix 500g (Family Edition),Grocery & Staples,Dairy & Bakery,118.33,72.8,38.48,5,SUP-005
+PRD-0221,Rusk & Khara Biscuits Combo (Family Edition),Grocery & Staples,Dairy & Bakery,124.57,84.69,32.01,5,SUP-013
+PRD-0222,Cashew Nut Roasted Pack 250g (Family Edition),Grocery & Staples,Dairy & Bakery,370.04,258.46,30.15,5,SUP-001
+PRD-0223,Artisanal Jaggery Blocks 1kg (Family Edition),Grocery & Staples,Dairy & Bakery,144.15,89.58,37.86,5,SUP-005
+PRD-0224,Citrus Floor Disinfectant 2L (Family Edition),Household & Kitchen,Cleaning Supplies,285.15,184.26,35.38,18,SUP-010
+PRD-0225,Herbal Dishwash Gel 1.5L (Family Edition),Household & Kitchen,Cleaning Supplies,251.87,175.44,30.35,18,SUP-018
+PRD-0226,Front-Load Laundry Liquid 2L (Family Edition),Household & Kitchen,Cleaning Supplies,428.93,296.07,30.97,18,SUP-030
+PRD-0227,Microfiber Mop & Bucket Set (Family Edition),Household & Kitchen,Cleaning Supplies,865.62,563.36,34.92,18,SUP-026
+PRD-0228,Tri-Ply Stainless Kadai 24cm (Family Edition),Household & Kitchen,Cookware & Steel,1321.79,867.41,34.38,18,SUP-010
+PRD-0229,Non-Stick Appam Patra 12-Pit (Family Edition),Household & Kitchen,Cookware & Steel,962.49,605.89,37.05,18,SUP-026
+PRD-0230,Hard Anodized Pressure Cooker 5L (Family Edition),Household & Kitchen,Cookware & Steel,2140.45,1475.9,31.05,18,SUP-018
+PRD-0231,Cast Iron Dosa Tawa 28cm (Family Edition),Household & Kitchen,Cookware & Steel,1157.83,754.04,34.87,18,SUP-018
+PRD-0232,Airtight Masala Box 7-Cup (Family Edition),Household & Kitchen,Storage & Organizers,559.08,371.0,33.64,18,SUP-030
+PRD-0233,Borosilicate Glass Container Set (Family Edition),Household & Kitchen,Storage & Organizers,1114.3,734.99,34.04,18,SUP-030
+PRD-0234,Modular Kitchen Rack 3-Tier (Family Edition),Household & Kitchen,Storage & Organizers,1146.94,771.51,32.73,18,SUP-026
+PRD-0235,Stainless Steel Lunch Box 4-Tier (Family Edition),Household & Kitchen,Storage & Organizers,714.02,447.89,37.27,18,SUP-014
+PRD-0236,Bamboo Folding Laundry Basket (Family Edition),Household & Kitchen,Laundry & Bath,969.56,600.11,38.1,18,SUP-026
+PRD-0237,Combed Cotton Bath Towel Set (Family Edition),Household & Kitchen,Laundry & Bath,718.6,479.9,33.22,18,SUP-002
+PRD-0238,Monsoon Dehumidifier Pouches 6-Pack (Family Edition),Household & Kitchen,Laundry & Bath,385.39,252.17,34.57,18,SUP-026
+PRD-0239,ANC Wireless Earbuds Pro (Family Edition),Electronics & Accessories,Audio & Earbuds,1819.27,1321.88,27.34,18,SUP-027
+PRD-0240,Portable Bluetooth Speaker 20W (Family Edition),Electronics & Accessories,Audio & Earbuds,2275.44,2121.61,6.76,18,SUP-003
+PRD-0241,USB-C Wired Studio Earphones (Family Edition),Electronics & Accessories,Audio & Earbuds,598.98,433.25,27.67,18,SUP-011
+PRD-0242,Neckband Sport Earphones (Family Edition),Electronics & Accessories,Audio & Earbuds,1409.66,970.99,31.12,18,SUP-015
+PRD-0243,65W GaN Fast Wall Charger (Family Edition),Electronics & Accessories,Cables & Chargers,1369.94,1042.9,23.87,18,SUP-003
+PRD-0244,Braided USB-C Cable 1.5m (Family Edition),Electronics & Accessories,Cables & Chargers,392.85,218.02,44.5,18,SUP-023
+PRD-0245,20000mAh Fast Power Bank (Family Edition),Electronics & Accessories,Cables & Chargers,1828.28,1711.74,6.37,18,SUP-027
+PRD-0246,Surge Protector 6-Socket Strip (Family Edition),Electronics & Accessories,Cables & Chargers,905.94,581.83,35.78,18,SUP-023
+PRD-0247,AMOLED Fitness Smart Watch (Family Edition),Electronics & Accessories,Smart Accessories,3044.42,2077.03,31.78,18,SUP-011
+PRD-0248,Ergonomic Wireless Mouse (Family Edition),Electronics & Accessories,Smart Accessories,934.67,602.24,35.57,18,SUP-015
+PRD-0249,Aluminum Laptop Stand Foldable (Family Edition),Electronics & Accessories,Smart Accessories,1203.2,782.82,34.94,18,SUP-027
+PRD-0250,64GB USB 3.2 Flash Drive (Family Edition),Electronics & Accessories,Smart Accessories,556.37,507.94,8.7,18,SUP-019
+PRD-0251,Electric Kettle Stainless 1.5L (Family Edition),Electronics & Accessories,Small Appliances,902.36,632.68,29.89,18,SUP-011
+PRD-0252,750W Mixer Grinder 3-Jar (Family Edition),Electronics & Accessories,Small Appliances,4143.81,3098.63,25.22,18,SUP-015
+PRD-0253,Rechargeable Mosquito Racquet (Family Edition),Electronics & Accessories,Small Appliances,509.31,345.94,32.08,18,SUP-023
+PRD-0254,LED Emergency Lantern 30W (Family Edition),Electronics & Accessories,Small Appliances,940.16,621.22,33.92,18,SUP-023
+PRD-0255,Handloom Linen Men's Shirt (Family Edition),Fashion & Lifestyle,Coastal Cotton Wear,1275.38,633.97,50.29,12,SUP-012
+PRD-0256,Breathable Cotton Kurta Set (Family Edition),Fashion & Lifestyle,Coastal Cotton Wear,1724.88,880.91,48.93,12,SUP-012
+PRD-0257,Block-Print Midi Dress (Family Edition),Fashion & Lifestyle,Coastal Cotton Wear,1641.27,829.39,49.47,12,SUP-016
+PRD-0258,Everyday Chino Trousers (Family Edition),Fashion & Lifestyle,Coastal Cotton Wear,1446.69,821.74,43.2,12,SUP-008
+PRD-0259,Monsoon Waterproof Sandals (Family Edition),Fashion & Lifestyle,Footwear,750.68,394.3,47.47,12,SUP-016
+PRD-0260,Cushioned Walking Sneakers (Family Edition),Fashion & Lifestyle,Footwear,1962.17,1036.56,47.17,12,SUP-020
+PRD-0261,Kolhapuri Leather Chappal (Family Edition),Fashion & Lifestyle,Footwear,975.09,527.82,45.87,12,SUP-012
+PRD-0262,Anti-Skid Kitchen Clogs (Family Edition),Fashion & Lifestyle,Footwear,620.72,354.68,42.86,12,SUP-028
+PRD-0263,Water-Resistant Laptop Backpack 28L (Family Edition),Fashion & Lifestyle,Bags & Travel,1660.06,893.56,46.17,12,SUP-020
+PRD-0264,Canvas Tote Shopping Bag (Family Edition),Fashion & Lifestyle,Bags & Travel,465.92,237.28,49.07,12,SUP-012
+PRD-0265,Cabin Duffel Travel Bag (Family Edition),Fashion & Lifestyle,Bags & Travel,2065.65,1107.53,46.38,12,SUP-016
+PRD-0266,Kasavu Border Cotton Mundu (Family Edition),Fashion & Lifestyle,Ethnic & Casuals,1002.12,524.03,47.71,12,SUP-012
+PRD-0267,Printed Dupatta & Stole Pack (Family Edition),Fashion & Lifestyle,Ethnic & Casuals,644.46,330.95,48.65,12,SUP-016
+PRD-0268,Polo Collar Pique T-Shirt (Family Edition),Fashion & Lifestyle,Ethnic & Casuals,732.09,364.24,50.25,12,SUP-012
+PRD-0269,Sona Masoori Rice 10kg (Eco),Grocery & Staples,Rice & Grains,709.79,609.22,14.17,5,SUP-017
+PRD-0270,Boiled Red Rice 5kg (Eco),Grocery & Staples,Rice & Grains,301.74,237.18,21.4,5,SUP-025
+PRD-0271,Organic Brown Poha 1kg (Eco),Grocery & Staples,Rice & Grains,107.07,72.53,32.26,5,SUP-001
+PRD-0272,Toor Dal Premium 2kg (Eco),Grocery & Staples,Rice & Grains,380.68,302.42,20.56,5,SUP-017
+PRD-0273,Ragi Flour Stone-Ground 2kg (Eco),Grocery & Staples,Rice & Grains,177.28,119.51,32.59,5,SUP-021
+PRD-0274,Kundapura Chicken Masala 200g (Eco),Grocery & Staples,Coastal Spices & Masalas,124.08,76.64,38.23,5,SUP-017
+PRD-0275,Byadagi Red Chilli Powder 500g (Eco),Grocery & Staples,Coastal Spices & Masalas,299.82,213.88,28.66,5,SUP-009
+PRD-0276,Mangalorean Fish Curry Paste 250g (Eco),Grocery & Staples,Coastal Spices & Masalas,158.57,107.78,32.03,5,SUP-001
+PRD-0277,Coorg Black Pepper Whole 250g (Eco),Grocery & Staples,Coastal Spices & Masalas,290.59,202.16,30.43,5,SUP-021
+PRD-0278,Udupi Sambar Powder 500g (Eco),Grocery & Staples,Coastal Spices & Masalas,237.09,152.53,35.67,5,SUP-017
+PRD-0279,Wood-Pressed Coconut Oil 1L (Eco),Grocery & Staples,Cold-Pressed Oils,386.52,270.29,30.07,5,SUP-013
+PRD-0280,Cold-Pressed Groundnut Oil 2L (Eco),Grocery & Staples,Cold-Pressed Oils,517.96,384.64,25.74,5,SUP-021
+PRD-0281,Pure Cow Ghee Jar 500ml (Eco),Grocery & Staples,Cold-Pressed Oils,487.83,374.54,23.22,5,SUP-009
+PRD-0282,Sesame Gingelly Oil 1L (Eco),Grocery & Staples,Cold-Pressed Oils,348.25,263.33,24.38,5,SUP-029
+PRD-0283,Chikmagalur Filter Coffee 500g (Eco),Grocery & Staples,Beverages & Filter Coffee,380.81,254.89,33.07,5,SUP-021
+PRD-0284,Assam Gold Leaf Tea 500g (Eco),Grocery & Staples,Beverages & Filter Coffee,317.2,220.62,30.45,5,SUP-005
+PRD-0285,Kokum Concentrate Syrup 750ml (Eco),Grocery & Staples,Beverages & Filter Coffee,176.29,126.13,28.45,5,SUP-025
+PRD-0286,Malted Health Drink 1kg (Eco),Grocery & Staples,Beverages & Filter Coffee,568.17,445.9,21.52,5,SUP-021
+PRD-0287,Mangalore Buns Mix 500g (Eco),Grocery & Staples,Dairy & Bakery,104.73,61.92,40.88,5,SUP-017
+PRD-0288,Rusk & Khara Biscuits Combo (Eco),Grocery & Staples,Dairy & Bakery,148.74,98.82,33.56,5,SUP-017
+PRD-0289,Cashew Nut Roasted Pack 250g (Eco),Grocery & Staples,Dairy & Bakery,355.99,265.87,25.32,5,SUP-021
+PRD-0290,Artisanal Jaggery Blocks 1kg (Eco),Grocery & Staples,Dairy & Bakery,123.77,78.42,36.64,5,SUP-001
+PRD-0291,Citrus Floor Disinfectant 2L (Eco),Household & Kitchen,Cleaning Supplies,299.93,216.05,27.97,18,SUP-022
+PRD-0292,Herbal Dishwash Gel 1.5L (Eco),Household & Kitchen,Cleaning Supplies,285.88,186.48,34.77,18,SUP-006
+PRD-0293,Front-Load Laundry Liquid 2L (Eco),Household & Kitchen,Cleaning Supplies,460.34,316.98,31.14,18,SUP-018
+PRD-0294,Microfiber Mop & Bucket Set (Eco),Household & Kitchen,Cleaning Supplies,989.57,607.33,38.63,18,SUP-002
+PRD-0295,Tri-Ply Stainless Kadai 24cm (Eco),Household & Kitchen,Cookware & Steel,1681.22,1060.89,36.9,18,SUP-030
+PRD-0296,Non-Stick Appam Patra 12-Pit (Eco),Household & Kitchen,Cookware & Steel,753.97,471.95,37.4,18,SUP-010
+PRD-0297,Hard Anodized Pressure Cooker 5L (Eco),Household & Kitchen,Cookware & Steel,2176.1,1420.98,34.7,18,SUP-026
+PRD-0298,Cast Iron Dosa Tawa 28cm (Eco),Household & Kitchen,Cookware & Steel,1078.62,744.81,30.95,18,SUP-026
+PRD-0299,Airtight Masala Box 7-Cup (Eco),Household & Kitchen,Storage & Organizers,529.28,362.87,31.44,18,SUP-026
+PRD-0300,Borosilicate Glass Container Set (Eco),Household & Kitchen,Storage & Organizers,1138.11,734.05,35.5,18,SUP-022
+PRD-0301,Modular Kitchen Rack 3-Tier (Eco),Household & Kitchen,Storage & Organizers,1096.95,727.51,33.68,18,SUP-014
+PRD-0302,Stainless Steel Lunch Box 4-Tier (Eco),Household & Kitchen,Storage & Organizers,807.89,491.54,39.16,18,SUP-022
+PRD-0303,Bamboo Folding Laundry Basket (Eco),Household & Kitchen,Laundry & Bath,851.03,579.96,31.85,18,SUP-022
+PRD-0304,Combed Cotton Bath Towel Set (Eco),Household & Kitchen,Laundry & Bath,674.54,421.81,37.47,18,SUP-006
+PRD-0305,Monsoon Dehumidifier Pouches 6-Pack (Eco),Household & Kitchen,Laundry & Bath,469.04,321.18,31.52,18,SUP-006
+PRD-0306,ANC Wireless Earbuds Pro (Eco),Electronics & Accessories,Audio & Earbuds,1988.51,1440.75,27.55,18,SUP-019
+PRD-0307,Portable Bluetooth Speaker 20W (Eco),Electronics & Accessories,Audio & Earbuds,2661.17,1680.85,36.84,18,SUP-011
+PRD-0308,USB-C Wired Studio Earphones (Eco),Electronics & Accessories,Audio & Earbuds,624.87,404.8,35.22,18,SUP-019
+PRD-0309,Neckband Sport Earphones (Eco),Electronics & Accessories,Audio & Earbuds,1138.77,780.02,31.5,18,SUP-019
+PRD-0310,65W GaN Fast Wall Charger (Eco),Electronics & Accessories,Cables & Chargers,1464.42,1360.74,7.08,18,SUP-027
+PRD-0311,Braided USB-C Cable 1.5m (Eco),Electronics & Accessories,Cables & Chargers,334.77,194.83,41.8,18,SUP-027
+PRD-0312,20000mAh Fast Power Bank (Eco),Electronics & Accessories,Cables & Chargers,2015.32,1418.15,29.63,18,SUP-027
+PRD-0313,Surge Protector 6-Socket Strip (Eco),Electronics & Accessories,Cables & Chargers,909.71,635.39,30.15,18,SUP-019
+PRD-0314,AMOLED Fitness Smart Watch (Eco),Electronics & Accessories,Smart Accessories,2894.7,2000.87,30.88,18,SUP-023
+PRD-0315,Ergonomic Wireless Mouse (Eco),Electronics & Accessories,Smart Accessories,849.05,792.51,6.66,18,SUP-011
+PRD-0316,Aluminum Laptop Stand Foldable (Eco),Electronics & Accessories,Smart Accessories,1147.45,708.86,38.22,18,SUP-011
+PRD-0317,64GB USB 3.2 Flash Drive (Eco),Electronics & Accessories,Smart Accessories,486.07,321.13,33.93,18,SUP-007
+PRD-0318,Electric Kettle Stainless 1.5L (Eco),Electronics & Accessories,Small Appliances,1131.05,782.21,30.84,18,SUP-023
+PRD-0319,750W Mixer Grinder 3-Jar (Eco),Electronics & Accessories,Small Appliances,3064.57,2204.18,28.08,18,SUP-011
+PRD-0320,Rechargeable Mosquito Racquet (Eco),Electronics & Accessories,Small Appliances,427.02,399.07,6.55,18,SUP-019
+PRD-0321,LED Emergency Lantern 30W (Eco),Electronics & Accessories,Small Appliances,763.31,515.86,32.42,18,SUP-023
+PRD-0322,Handloom Linen Men's Shirt (Eco),Fashion & Lifestyle,Coastal Cotton Wear,1489.04,827.47,44.43,12,SUP-020
+PRD-0323,Breathable Cotton Kurta Set (Eco),Fashion & Lifestyle,Coastal Cotton Wear,1472.85,787.91,46.5,12,SUP-004
+PRD-0324,Block-Print Midi Dress (Eco),Fashion & Lifestyle,Coastal Cotton Wear,1440.19,751.12,47.85,12,SUP-016
+PRD-0325,Everyday Chino Trousers (Eco),Fashion & Lifestyle,Coastal Cotton Wear,1382.63,717.04,48.14,12,SUP-024
+PRD-0326,Monsoon Waterproof Sandals (Eco),Fashion & Lifestyle,Footwear,950.25,464.32,51.14,12,SUP-004
+PRD-0327,Cushioned Walking Sneakers (Eco),Fashion & Lifestyle,Footwear,1780.14,928.51,47.84,12,SUP-008
+PRD-0328,Kolhapuri Leather Chappal (Eco),Fashion & Lifestyle,Footwear,1022.18,565.93,44.63,12,SUP-020
+PRD-0329,Anti-Skid Kitchen Clogs (Eco),Fashion & Lifestyle,Footwear,672.16,369.9,44.97,12,SUP-020
+PRD-0330,Water-Resistant Laptop Backpack 28L (Eco),Fashion & Lifestyle,Bags & Travel,1695.56,933.25,44.96,12,SUP-020
+PRD-0331,Canvas Tote Shopping Bag (Eco),Fashion & Lifestyle,Bags & Travel,512.11,272.99,46.69,12,SUP-004
+PRD-0332,Cabin Duffel Travel Bag (Eco),Fashion & Lifestyle,Bags & Travel,1987.74,1116.59,43.83,12,SUP-028
+PRD-0333,Kasavu Border Cotton Mundu (Eco),Fashion & Lifestyle,Ethnic & Casuals,959.64,529.04,44.87,12,SUP-016
+PRD-0334,Printed Dupatta & Stole Pack (Eco),Fashion & Lifestyle,Ethnic & Casuals,702.8,353.36,49.72,12,SUP-012
+PRD-0335,Polo Collar Pique T-Shirt (Eco),Fashion & Lifestyle,Ethnic & Casuals,927.9,462.73,50.13,12,SUP-024
+PRD-0336,Sona Masoori Rice 10kg (Select),Grocery & Staples,Rice & Grains,602.14,480.58,20.19,5,SUP-017
+PRD-0337,Boiled Red Rice 5kg (Select),Grocery & Staples,Rice & Grains,342.47,246.13,28.13,5,SUP-029
+PRD-0338,Organic Brown Poha 1kg (Select),Grocery & Staples,Rice & Grains,99.31,69.62,29.9,5,SUP-005
+PRD-0339,Toor Dal Premium 2kg (Select),Grocery & Staples,Rice & Grains,328.59,261.02,20.56,5,SUP-021
+PRD-0340,Ragi Flour Stone-Ground 2kg (Select),Grocery & Staples,Rice & Grains,179.18,126.18,29.58,5,SUP-021
+PRD-0341,Kundapura Chicken Masala 200g (Select),Grocery & Staples,Coastal Spices & Masalas,144.01,91.66,36.35,5,SUP-025
+PRD-0342,Byadagi Red Chilli Powder 500g (Select),Grocery & Staples,Coastal Spices & Masalas,317.29,226.35,28.66,5,SUP-017
+PRD-0343,Mangalorean Fish Curry Paste 250g (Select),Grocery & Staples,Coastal Spices & Masalas,157.2,99.46,36.73,5,SUP-013
+PRD-0344,Coorg Black Pepper Whole 250g (Select),Grocery & Staples,Coastal Spices & Masalas,275.12,192.46,30.05,5,SUP-005
+PRD-0345,Udupi Sambar Powder 500g (Select),Grocery & Staples,Coastal Spices & Masalas,209.8,143.75,31.48,5,SUP-005
+PRD-0346,Wood-Pressed Coconut Oil 1L (Select),Grocery & Staples,Cold-Pressed Oils,444.32,317.29,28.59,5,SUP-025
+PRD-0347,Cold-Pressed Groundnut Oil 2L (Select),Grocery & Staples,Cold-Pressed Oils,653.72,513.18,21.5,5,SUP-001
+PRD-0348,Pure Cow Ghee Jar 500ml (Select),Grocery & Staples,Cold-Pressed Oils,500.05,371.64,25.68,5,SUP-017
+PRD-0349,Sesame Gingelly Oil 1L (Select),Grocery & Staples,Cold-Pressed Oils,320.34,225.32,29.66,5,SUP-017
+PRD-0350,Chikmagalur Filter Coffee 500g (Select),Grocery & Staples,Beverages & Filter Coffee,375.9,253.51,32.56,5,SUP-009
+PRD-0351,Assam Gold Leaf Tea 500g (Select),Grocery & Staples,Beverages & Filter Coffee,323.33,227.81,29.54,5,SUP-025
+PRD-0352,Kokum Concentrate Syrup 750ml (Select),Grocery & Staples,Beverages & Filter Coffee,171.7,119.39,30.47,5,SUP-001
+PRD-0353,Malted Health Drink 1kg (Select),Grocery & Staples,Beverages & Filter Coffee,428.26,324.41,24.25,5,SUP-025
+PRD-0354,Mangalore Buns Mix 500g (Select),Grocery & Staples,Dairy & Bakery,117.62,69.04,41.3,5,SUP-021
+PRD-0355,Rusk & Khara Biscuits Combo (Select),Grocery & Staples,Dairy & Bakery,138.03,90.12,34.71,5,SUP-005
+PRD-0356,Cashew Nut Roasted Pack 250g (Select),Grocery & Staples,Dairy & Bakery,389.51,266.35,31.62,5,SUP-001
+PRD-0357,Artisanal Jaggery Blocks 1kg (Select),Grocery & Staples,Dairy & Bakery,149.74,95.37,36.31,5,SUP-025
+PRD-0358,Citrus Floor Disinfectant 2L (Select),Household & Kitchen,Cleaning Supplies,287.41,194.1,32.47,18,SUP-018
+PRD-0359,Herbal Dishwash Gel 1.5L (Select),Household & Kitchen,Cleaning Supplies,228.79,155.19,32.17,18,SUP-022
+PRD-0360,Front-Load Laundry Liquid 2L (Select),Household & Kitchen,Cleaning Supplies,430.99,289.65,32.79,18,SUP-030
+PRD-0361,Microfiber Mop & Bucket Set (Select),Household & Kitchen,Cleaning Supplies,952.18,599.97,36.99,18,SUP-014
+PRD-0362,Tri-Ply Stainless Kadai 24cm (Select),Household & Kitchen,Cookware & Steel,1419.13,931.29,34.38,18,SUP-002
+PRD-0363,Non-Stick Appam Patra 12-Pit (Select),Household & Kitchen,Cookware & Steel,778.59,534.72,31.32,18,SUP-010
+PRD-0364,Hard Anodized Pressure Cooker 5L (Select),Household & Kitchen,Cookware & Steel,2450.6,1582.7,35.42,18,SUP-006
+PRD-0365,Cast Iron Dosa Tawa 28cm (Select),Household & Kitchen,Cookware & Steel,881.75,610.46,30.77,18,SUP-010
+PRD-0366,Airtight Masala Box 7-Cup (Select),Household & Kitchen,Storage & Organizers,443.48,292.47,34.05,18,SUP-014
+PRD-0367,Borosilicate Glass Container Set (Select),Household & Kitchen,Storage & Organizers,996.53,691.1,30.65,18,SUP-022
+PRD-0368,Modular Kitchen Rack 3-Tier (Select),Household & Kitchen,Storage & Organizers,1040.18,728.11,30.0,18,SUP-002
+PRD-0369,Stainless Steel Lunch Box 4-Tier (Select),Household & Kitchen,Storage & Organizers,709.54,453.38,36.1,18,SUP-006
+PRD-0370,Bamboo Folding Laundry Basket (Select),Household & Kitchen,Laundry & Bath,937.32,606.88,35.25,18,SUP-026
+PRD-0371,Combed Cotton Bath Towel Set (Select),Household & Kitchen,Laundry & Bath,839.8,535.28,36.26,18,SUP-006
+PRD-0372,Monsoon Dehumidifier Pouches 6-Pack (Select),Household & Kitchen,Laundry & Bath,396.91,276.67,30.29,18,SUP-010
+PRD-0373,ANC Wireless Earbuds Pro (Select),Electronics & Accessories,Audio & Earbuds,2073.26,1497.57,27.77,18,SUP-027
+PRD-0374,Portable Bluetooth Speaker 20W (Select),Electronics & Accessories,Audio & Earbuds,2450.71,1615.53,34.08,18,SUP-015
+PRD-0375,USB-C Wired Studio Earphones (Select),Electronics & Accessories,Audio & Earbuds,687.8,638.16,7.22,18,SUP-019
+PRD-0376,Neckband Sport Earphones (Select),Electronics & Accessories,Audio & Earbuds,1218.37,755.25,38.01,18,SUP-027
+PRD-0377,65W GaN Fast Wall Charger (Select),Electronics & Accessories,Cables & Chargers,1477.25,1044.22,29.31,18,SUP-011
+PRD-0378,Braided USB-C Cable 1.5m (Select),Electronics & Accessories,Cables & Chargers,399.57,211.87,46.98,18,SUP-023
+PRD-0379,20000mAh Fast Power Bank (Select),Electronics & Accessories,Cables & Chargers,1560.99,1177.12,24.59,18,SUP-027
+PRD-0380,Surge Protector 6-Socket Strip (Select),Electronics & Accessories,Cables & Chargers,745.57,673.72,9.64,18,SUP-027
+PRD-0381,AMOLED Fitness Smart Watch (Select),Electronics & Accessories,Smart Accessories,3297.25,2270.7,31.13,18,SUP-003
+PRD-0382,Ergonomic Wireless Mouse (Select),Electronics & Accessories,Smart Accessories,742.9,438.75,40.94,18,SUP-019
+PRD-0383,Aluminum Laptop Stand Foldable (Select),Electronics & Accessories,Smart Accessories,931.04,616.16,33.82,18,SUP-003
+PRD-0384,64GB USB 3.2 Flash Drive (Select),Electronics & Accessories,Smart Accessories,516.19,364.6,29.37,18,SUP-015
+PRD-0385,Electric Kettle Stainless 1.5L (Select),Electronics & Accessories,Small Appliances,1009.3,920.29,8.82,18,SUP-019
+PRD-0386,750W Mixer Grinder 3-Jar (Select),Electronics & Accessories,Small Appliances,3509.9,2684.12,23.53,18,SUP-019
+PRD-0387,Rechargeable Mosquito Racquet (Select),Electronics & Accessories,Small Appliances,461.42,322.45,30.12,18,SUP-011
+PRD-0388,LED Emergency Lantern 30W (Select),Electronics & Accessories,Small Appliances,937.9,634.85,32.31,18,SUP-007
+PRD-0389,Handloom Linen Men's Shirt (Select),Fashion & Lifestyle,Coastal Cotton Wear,1337.35,705.93,47.21,12,SUP-024
+PRD-0390,Breathable Cotton Kurta Set (Select),Fashion & Lifestyle,Coastal Cotton Wear,1473.46,750.6,49.06,12,SUP-004
+PRD-0391,Block-Print Midi Dress (Select),Fashion & Lifestyle,Coastal Cotton Wear,1598.46,789.0,50.64,12,SUP-016
+PRD-0392,Everyday Chino Trousers (Select),Fashion & Lifestyle,Coastal Cotton Wear,1394.39,717.99,48.51,12,SUP-028
+PRD-0393,Monsoon Waterproof Sandals (Select),Fashion & Lifestyle,Footwear,781.11,412.16,47.23,12,SUP-028
+PRD-0394,Cushioned Walking Sneakers (Select),Fashion & Lifestyle,Footwear,1638.35,907.27,44.62,12,SUP-016
+PRD-0395,Kolhapuri Leather Chappal (Select),Fashion & Lifestyle,Footwear,1089.19,596.87,45.2,12,SUP-028
+PRD-0396,Anti-Skid Kitchen Clogs (Select),Fashion & Lifestyle,Footwear,677.61,355.9,47.48,12,SUP-028
+PRD-0397,Water-Resistant Laptop Backpack 28L (Select),Fashion & Lifestyle,Bags & Travel,1717.91,912.22,46.9,12,SUP-020
+PRD-0398,Canvas Tote Shopping Bag (Select),Fashion & Lifestyle,Bags & Travel,519.82,254.49,51.04,12,SUP-004
+PRD-0399,Cabin Duffel Travel Bag (Select),Fashion & Lifestyle,Bags & Travel,1755.37,1006.47,42.66,12,SUP-028
+PRD-0400,Kasavu Border Cotton Mundu (Select),Fashion & Lifestyle,Ethnic & Casuals,896.1,484.6,45.92,12,SUP-020
+PRD-0401,Printed Dupatta & Stole Pack (Select),Fashion & Lifestyle,Ethnic & Casuals,747.78,366.23,51.02,12,SUP-024
+PRD-0402,Polo Collar Pique T-Shirt (Select),Fashion & Lifestyle,Ethnic & Casuals,822.04,412.17,49.86,12,SUP-020
+PRD-0403,Sona Masoori Rice 10kg (Reserve),Grocery & Staples,Rice & Grains,717.64,567.96,20.86,5,SUP-017
+PRD-0404,Boiled Red Rice 5kg (Reserve),Grocery & Staples,Rice & Grains,343.99,268.49,21.95,5,SUP-001
+PRD-0405,Organic Brown Poha 1kg (Reserve),Grocery & Staples,Rice & Grains,126.32,86.48,31.54,5,SUP-005
+PRD-0406,Toor Dal Premium 2kg (Reserve),Grocery & Staples,Rice & Grains,317.47,246.17,22.46,5,SUP-025
+PRD-0407,Ragi Flour Stone-Ground 2kg (Reserve),Grocery & Staples,Rice & Grains,151.37,108.94,28.03,5,SUP-009
+PRD-0408,Kundapura Chicken Masala 200g (Reserve),Grocery & Staples,Coastal Spices & Masalas,129.13,84.08,34.89,5,SUP-009
+PRD-0409,Byadagi Red Chilli Powder 500g (Reserve),Grocery & Staples,Coastal Spices & Masalas,321.76,217.44,32.42,5,SUP-025
+PRD-0410,Mangalorean Fish Curry Paste 250g (Reserve),Grocery & Staples,Coastal Spices & Masalas,133.96,88.83,33.69,5,SUP-005
+PRD-0411,Coorg Black Pepper Whole 250g (Reserve),Grocery & Staples,Coastal Spices & Masalas,290.65,200.48,31.02,5,SUP-021
+PRD-0412,Udupi Sambar Powder 500g (Reserve),Grocery & Staples,Coastal Spices & Masalas,242.86,168.88,30.46,5,SUP-005
+PRD-0413,Wood-Pressed Coconut Oil 1L (Reserve),Grocery & Staples,Cold-Pressed Oils,428.86,300.22,30.0,5,SUP-021
+PRD-0414,Cold-Pressed Groundnut Oil 2L (Reserve),Grocery & Staples,Cold-Pressed Oils,496.27,357.37,27.99,5,SUP-013
+PRD-0415,Pure Cow Ghee Jar 500ml (Reserve),Grocery & Staples,Cold-Pressed Oils,458.25,345.34,24.64,5,SUP-013
+PRD-0416,Sesame Gingelly Oil 1L (Reserve),Grocery & Staples,Cold-Pressed Oils,344.53,237.86,30.96,5,SUP-005
+PRD-0417,Chikmagalur Filter Coffee 500g (Reserve),Grocery & Staples,Beverages & Filter Coffee,308.88,220.57,28.59,5,SUP-001
+PRD-0418,Assam Gold Leaf Tea 500g (Reserve),Grocery & Staples,Beverages & Filter Coffee,303.89,222.8,26.68,5,SUP-009
+PRD-0419,Kokum Concentrate Syrup 750ml (Reserve),Grocery & Staples,Beverages & Filter Coffee,205.78,132.36,35.68,5,SUP-009
+PRD-0420,Malted Health Drink 1kg (Reserve),Grocery & Staples,Beverages & Filter Coffee,546.45,427.03,21.85,5,SUP-009
+PRD-0421,Mangalore Buns Mix 500g (Reserve),Grocery & Staples,Dairy & Bakery,129.4,72.91,43.66,5,SUP-021
+PRD-0422,Rusk & Khara Biscuits Combo (Reserve),Grocery & Staples,Dairy & Bakery,155.39,100.27,35.47,5,SUP-029
+PRD-0423,Cashew Nut Roasted Pack 250g (Reserve),Grocery & Staples,Dairy & Bakery,358.91,265.67,25.98,5,SUP-029
+PRD-0424,Artisanal Jaggery Blocks 1kg (Reserve),Grocery & Staples,Dairy & Bakery,129.54,82.14,36.59,5,SUP-029
+PRD-0425,Citrus Floor Disinfectant 2L (Reserve),Household & Kitchen,Cleaning Supplies,326.52,213.24,34.69,18,SUP-030
+PRD-0426,Herbal Dishwash Gel 1.5L (Reserve),Household & Kitchen,Cleaning Supplies,248.87,163.68,34.23,18,SUP-026
+PRD-0427,Front-Load Laundry Liquid 2L (Reserve),Household & Kitchen,Cleaning Supplies,441.42,302.11,31.56,18,SUP-010
+PRD-0428,Microfiber Mop & Bucket Set (Reserve),Household & Kitchen,Cleaning Supplies,1040.81,699.57,32.79,18,SUP-010
+PRD-0429,Tri-Ply Stainless Kadai 24cm (Reserve),Household & Kitchen,Cookware & Steel,1646.37,1003.41,39.05,18,SUP-030
+PRD-0430,Non-Stick Appam Patra 12-Pit (Reserve),Household & Kitchen,Cookware & Steel,965.3,630.66,34.67,18,SUP-006
+PRD-0431,Hard Anodized Pressure Cooker 5L (Reserve),Household & Kitchen,Cookware & Steel,2412.03,1605.68,33.43,18,SUP-006
+PRD-0432,Cast Iron Dosa Tawa 28cm (Reserve),Household & Kitchen,Cookware & Steel,975.94,677.06,30.62,18,SUP-018
+PRD-0433,Airtight Masala Box 7-Cup (Reserve),Household & Kitchen,Storage & Organizers,495.73,326.1,34.22,18,SUP-026
+PRD-0434,Borosilicate Glass Container Set (Reserve),Household & Kitchen,Storage & Organizers,864.71,605.53,29.97,18,SUP-030
+PRD-0435,Modular Kitchen Rack 3-Tier (Reserve),Household & Kitchen,Storage & Organizers,1357.89,958.73,29.4,18,SUP-026
+PRD-0436,Stainless Steel Lunch Box 4-Tier (Reserve),Household & Kitchen,Storage & Organizers,619.69,398.19,35.74,18,SUP-014
+PRD-0437,Bamboo Folding Laundry Basket (Reserve),Household & Kitchen,Laundry & Bath,808.03,489.38,39.44,18,SUP-014
+PRD-0438,Combed Cotton Bath Towel Set (Reserve),Household & Kitchen,Laundry & Bath,666.3,453.77,31.9,18,SUP-022
+PRD-0439,Monsoon Dehumidifier Pouches 6-Pack (Reserve),Household & Kitchen,Laundry & Bath,448.14,280.2,37.47,18,SUP-018
+PRD-0440,ANC Wireless Earbuds Pro (Reserve),Electronics & Accessories,Audio & Earbuds,1923.6,1762.74,8.36,18,SUP-027
+PRD-0441,Portable Bluetooth Speaker 20W (Reserve),Electronics & Accessories,Audio & Earbuds,2038.89,1406.15,31.03,18,SUP-015
+PRD-0442,USB-C Wired Studio Earphones (Reserve),Electronics & Accessories,Audio & Earbuds,706.9,507.53,28.2,18,SUP-003
+PRD-0443,Neckband Sport Earphones (Reserve),Electronics & Accessories,Audio & Earbuds,1159.45,794.7,31.46,18,SUP-019
+PRD-0444,65W GaN Fast Wall Charger (Reserve),Electronics & Accessories,Cables & Chargers,1798.32,1317.33,26.75,18,SUP-015
+PRD-0445,Braided USB-C Cable 1.5m (Reserve),Electronics & Accessories,Cables & Chargers,336.59,311.55,7.44,18,SUP-011
+PRD-0446,20000mAh Fast Power Bank (Reserve),Electronics & Accessories,Cables & Chargers,1565.51,1138.28,27.29,18,SUP-023
+PRD-0447,Surge Protector 6-Socket Strip (Reserve),Electronics & Accessories,Cables & Chargers,861.29,562.01,34.75,18,SUP-003
+PRD-0448,AMOLED Fitness Smart Watch (Reserve),Electronics & Accessories,Smart Accessories,3492.26,2522.21,27.78,18,SUP-019
+PRD-0449,Ergonomic Wireless Mouse (Reserve),Electronics & Accessories,Smart Accessories,707.58,436.16,38.36,18,SUP-007
+PRD-0450,Aluminum Laptop Stand Foldable (Reserve),Electronics & Accessories,Smart Accessories,1042.37,964.65,7.46,18,SUP-003
+PRD-0451,64GB USB 3.2 Flash Drive (Reserve),Electronics & Accessories,Smart Accessories,597.88,393.67,34.16,18,SUP-015
+PRD-0452,Electric Kettle Stainless 1.5L (Reserve),Electronics & Accessories,Small Appliances,942.74,664.17,29.55,18,SUP-019
+PRD-0453,750W Mixer Grinder 3-Jar (Reserve),Electronics & Accessories,Small Appliances,4117.49,2811.7,31.71,18,SUP-019
+PRD-0454,Rechargeable Mosquito Racquet (Reserve),Electronics & Accessories,Small Appliances,447.29,304.83,31.85,18,SUP-019
+PRD-0455,LED Emergency Lantern 30W (Reserve),Electronics & Accessories,Small Appliances,816.61,751.67,7.95,18,SUP-015
+PRD-0456,Handloom Linen Men's Shirt (Reserve),Fashion & Lifestyle,Coastal Cotton Wear,1162.35,606.89,47.79,12,SUP-012
+PRD-0457,Breathable Cotton Kurta Set (Reserve),Fashion & Lifestyle,Coastal Cotton Wear,1448.4,711.89,50.85,12,SUP-028
+PRD-0458,Block-Print Midi Dress (Reserve),Fashion & Lifestyle,Coastal Cotton Wear,1443.85,729.32,49.49,12,SUP-024
+PRD-0459,Everyday Chino Trousers (Reserve),Fashion & Lifestyle,Coastal Cotton Wear,1475.28,835.74,43.35,12,SUP-024
+PRD-0460,Monsoon Waterproof Sandals (Reserve),Fashion & Lifestyle,Footwear,908.68,447.73,50.73,12,SUP-012
+PRD-0461,Cushioned Walking Sneakers (Reserve),Fashion & Lifestyle,Footwear,1917.09,1092.0,43.04,12,SUP-008
+PRD-0462,Kolhapuri Leather Chappal (Reserve),Fashion & Lifestyle,Footwear,1220.45,680.22,44.26,12,SUP-024
+PRD-0463,Anti-Skid Kitchen Clogs (Reserve),Fashion & Lifestyle,Footwear,624.58,334.56,46.43,12,SUP-008
+PRD-0464,Water-Resistant Laptop Backpack 28L (Reserve),Fashion & Lifestyle,Bags & Travel,1441.43,827.35,42.6,12,SUP-016
+PRD-0465,Canvas Tote Shopping Bag (Reserve),Fashion & Lifestyle,Bags & Travel,445.39,219.59,50.7,12,SUP-028
+PRD-0466,Cabin Duffel Travel Bag (Reserve),Fashion & Lifestyle,Bags & Travel,1610.35,833.3,48.25,12,SUP-012
+PRD-0467,Kasavu Border Cotton Mundu (Reserve),Fashion & Lifestyle,Ethnic & Casuals,948.65,531.12,44.01,12,SUP-020
+PRD-0468,Printed Dupatta & Stole Pack (Reserve),Fashion & Lifestyle,Ethnic & Casuals,707.85,346.55,51.04,12,SUP-024
+PRD-0469,Polo Collar Pique T-Shirt (Reserve),Fashion & Lifestyle,Ethnic & Casuals,755.04,374.42,50.41,12,SUP-028
+PRD-0470,Sona Masoori Rice 10kg (Coastal Edition),Grocery & Staples,Rice & Grains,591.53,486.52,17.75,5,SUP-017
+PRD-0471,Boiled Red Rice 5kg (Coastal Edition),Grocery & Staples,Rice & Grains,313.59,232.09,25.99,5,SUP-025
+PRD-0472,Organic Brown Poha 1kg (Coastal Edition),Grocery & Staples,Rice & Grains,124.6,88.04,29.34,5,SUP-025
+PRD-0473,Toor Dal Premium 2kg (Coastal Edition),Grocery & Staples,Rice & Grains,318.49,234.96,26.23,5,SUP-029
+PRD-0474,Ragi Flour Stone-Ground 2kg (Coastal Edition),Grocery & Staples,Rice & Grains,155.76,113.15,27.36,5,SUP-017
+PRD-0475,Kundapura Chicken Masala 200g (Coastal Edition),Grocery & Staples,Coastal Spices & Masalas,149.81,99.38,33.66,5,SUP-005
+PRD-0476,Byadagi Red Chilli Powder 500g (Coastal Edition),Grocery & Staples,Coastal Spices & Masalas,277.13,204.64,26.16,5,SUP-009
+PRD-0477,Mangalorean Fish Curry Paste 250g (Coastal Edition),Grocery & Staples,Coastal Spices & Masalas,154.49,97.35,36.99,5,SUP-005
+PRD-0478,Coorg Black Pepper Whole 250g (Coastal Edition),Grocery & Staples,Coastal Spices & Masalas,292.49,199.56,31.77,5,SUP-029
+PRD-0479,Udupi Sambar Powder 500g (Coastal Edition),Grocery & Staples,Coastal Spices & Masalas,227.83,153.44,32.65,5,SUP-029
+PRD-0480,Wood-Pressed Coconut Oil 1L (Coastal Edition),Grocery & Staples,Cold-Pressed Oils,389.82,259.02,33.55,5,SUP-021
+PRD-0481,Cold-Pressed Groundnut Oil 2L (Coastal Edition),Grocery & Staples,Cold-Pressed Oils,609.87,446.67,26.76,5,SUP-001
+PRD-0482,Pure Cow Ghee Jar 500ml (Coastal Edition),Grocery & Staples,Cold-Pressed Oils,416.54,308.76,25.88,5,SUP-021
+PRD-0483,Sesame Gingelly Oil 1L (Coastal Edition),Grocery & Staples,Cold-Pressed Oils,379.6,284.32,25.1,5,SUP-009
+PRD-0484,Chikmagalur Filter Coffee 500g (Coastal Edition),Grocery & Staples,Beverages & Filter Coffee,379.24,248.6,34.45,5,SUP-029
+PRD-0485,Assam Gold Leaf Tea 500g (Coastal Edition),Grocery & Staples,Beverages & Filter Coffee,245.25,161.51,34.14,5,SUP-021
+PRD-0486,Kokum Concentrate Syrup 750ml (Coastal Edition),Grocery & Staples,Beverages & Filter Coffee,190.59,136.07,28.61,5,SUP-001
+PRD-0487,Malted Health Drink 1kg (Coastal Edition),Grocery & Staples,Beverages & Filter Coffee,510.29,394.1,22.77,5,SUP-021
+PRD-0488,Mangalore Buns Mix 500g (Coastal Edition),Grocery & Staples,Dairy & Bakery,115.75,71.81,37.96,5,SUP-009
+PRD-0489,Rusk & Khara Biscuits Combo (Coastal Edition),Grocery & Staples,Dairy & Bakery,148.4,97.86,34.06,5,SUP-017
+PRD-0490,Cashew Nut Roasted Pack 250g (Coastal Edition),Grocery & Staples,Dairy & Bakery,318.41,216.46,32.02,5,SUP-009
+PRD-0491,Artisanal Jaggery Blocks 1kg (Coastal Edition),Grocery & Staples,Dairy & Bakery,141.71,91.67,35.31,5,SUP-005
+PRD-0492,Citrus Floor Disinfectant 2L (Coastal Edition),Household & Kitchen,Cleaning Supplies,266.48,175.61,34.1,18,SUP-030
+PRD-0493,Herbal Dishwash Gel 1.5L (Coastal Edition),Household & Kitchen,Cleaning Supplies,228.71,157.17,31.28,18,SUP-030
+PRD-0494,Front-Load Laundry Liquid 2L (Coastal Edition),Household & Kitchen,Cleaning Supplies,398.19,262.24,34.14,18,SUP-006
+PRD-0495,Microfiber Mop & Bucket Set (Coastal Edition),Household & Kitchen,Cleaning Supplies,929.29,632.34,31.95,18,SUP-030
+PRD-0496,Tri-Ply Stainless Kadai 24cm (Coastal Edition),Household & Kitchen,Cookware & Steel,1705.48,1149.99,32.57,18,SUP-022
+PRD-0497,Non-Stick Appam Patra 12-Pit (Coastal Edition),Household & Kitchen,Cookware & Steel,907.79,605.13,33.34,18,SUP-018
+PRD-0498,Hard Anodized Pressure Cooker 5L (Coastal Edition),Household & Kitchen,Cookware & Steel,2543.56,1768.05,30.49,18,SUP-010
+PRD-0499,Cast Iron Dosa Tawa 28cm (Coastal Edition),Household & Kitchen,Cookware & Steel,1148.71,771.06,32.88,18,SUP-006
+PRD-0500,Airtight Masala Box 7-Cup (Coastal Edition),Household & Kitchen,Storage & Organizers,583.17,397.71,31.8,18,SUP-014

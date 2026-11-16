@@ -1,0 +1,74 @@
+{
+  "generated_at": "16-11-2026 13:33:30",
+  "raw_counts": {
+    "sales_transactions": 25110,
+    "customers": 5000,
+    "products": 500,
+    "branches": 6,
+    "suppliers": 30,
+    "inventory": 3000,
+    "deliveries": 10800
+  },
+  "clean_counts": {
+    "sales_transactions": 25000,
+    "customers": 5000,
+    "products": 500,
+    "branches": 6,
+    "suppliers": 30,
+    "inventory": 3000,
+    "deliveries": 10800
+  },
+  "checks": [
+    {
+      "check": "Duplicate Invoice Detection",
+      "table": "sales_transactions",
+      "issues_found": 110,
+      "resolution": "Deduplicated by unique invoice_id",
+      "status": "Passed"
+    },
+    {
+      "check": "Missing Payment Method Imputation",
+      "table": "sales_transactions",
+      "issues_found": 65,
+      "resolution": "Imputed mode payment method (UPI)",
+      "status": "Passed"
+    },
+    {
+      "check": "Missing Customer City Imputation",
+      "table": "customers",
+      "issues_found": 40,
+      "resolution": "Mapped fallback hub city by customer state",
+      "status": "Passed"
+    },
+    {
+      "check": "Negative & Zero Quantity Validation",
+      "table": "sales_transactions",
+      "issues_found": 45,
+      "resolution": "Normalized to positive integer quantity >= 1",
+      "status": "Passed"
+    },
+    {
+      "check": "DD-MM-YYYY Date Format Validation",
+      "table": "sales_transactions",
+      "issues_found": 30,
+      "resolution": "Repaired malformed dates and synced ISO keys",
+      "status": "Passed"
+    },
+    {
+      "check": "Revenue & GST Integrity Verification",
+      "table": "sales_transactions",
+      "issues_found": 42,
+      "resolution": "Recomputed revenue = (qty * unit_price) - discount",
+      "status": "Passed"
+    },
+    {
+      "check": "Foreign Key Referential Integrity",
+      "table": "sales_transactions & deliveries",
+      "issues_found": 0,
+      "resolution": "Verified 100% FK linkage across orders, customers, products, branches",
+      "status": "Passed"
+    }
+  ],
+  "total_anomalies_remediated": 332,
+  "quality_score_pct": 98.9
+}
